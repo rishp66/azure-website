@@ -4,6 +4,8 @@
 
 Here's some information about me so you can get to know me!
 
+🔒 - **Current Cyber Analyst** at [Darktrace](https://www.darktrace.com)
+
 🔒 - **Previous Security Analyst** at [Brother USA](https://www.brother-usa.com/home)
 
 🖥️ - **Previous IT Supervisor** at [Rutgers Office of Information Technology](https://it.rutgers.edu/about/office-of-information-technology/)
