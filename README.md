@@ -4,9 +4,9 @@
 
 Here's some information about me so you can get to know me!
 
-🔒 - **Junior Security Analyst** at [Brother USA](https://www.brother-usa.com/home)
+🔒 - **Previous Security Analyst** at [Brother USA](https://www.brother-usa.com/home)
 
-🖥️ - **IT Supervisor** at [Rutgers Office of Information Technology](https://it.rutgers.edu/about/office-of-information-technology/)
+🖥️ - **Previous IT Supervisor** at [Rutgers Office of Information Technology](https://it.rutgers.edu/about/office-of-information-technology/)
 
 ☁️ - Former **President & Founder** of [Rutgers Organization of Cloud Computing](https://www.cs.rutgers.edu/academics/graduate/other-important-information?view=article&id=3851:rutgers-organization-of-cloud-computing-rocc&catid=129)
 
